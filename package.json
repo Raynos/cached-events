@@ -1,0 +1,31 @@
+{
+  "name": "cached-events",
+  "version": "0.0.1",
+  "description": "Cache an Event Emitter",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/cached-events.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/cached-events",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/cached-events/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/cached-events/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {
+  }
+}
